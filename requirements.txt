@@ -1,0 +1,12 @@
+langchain 
+langchain-core
+openai
+pinecone-client
+transformers
+langchain-openai
+langsmith openai
+langchain-community
+langchain-experimental
+langgraph
+"langserve[all]"
+langchain-cli
