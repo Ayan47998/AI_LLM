@@ -4,9 +4,14 @@ openai
 pinecone-client
 transformers
 langchain-openai
-langsmith openai
+langsmith
+openai
 langchain-community
 langchain-experimental
 langgraph
-"langserve[all]"
+langserve[all]
 langchain-cli
+streamlit
+PyPDF2
+python-docx
+python-dotenv
